@@ -62,7 +62,7 @@ const Map = ({ searchlocat }) => {
                   <p>Details: {item.detail}</p>
                 </Link>
               </Popup>
-              <Tooltip permanent direction="top">{item.price} Bath</Tooltip>
+              <Tooltip permanent direction="top">{item.price} ฿</Tooltip>
             </Marker>
 
           );
