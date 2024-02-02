@@ -112,3 +112,7 @@
     -o-transform: translate(55px, 0);
     -moz-transform: translate(55px);
 }
+.btn{
+    position: absolute;
+    transform: translateX(0%);
+}
